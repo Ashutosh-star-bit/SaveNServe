@@ -30,7 +30,7 @@ Python 3.x
 MySQL Database Server
 
 1. Clone the Repository
-git clone https://github.com/your-username/save-n-serve.git
+git clone https://github.com/Ashutosh-star-bit/SaveNServe.git
 cd save-n-serve
 
 2. Install Python Dependencies
